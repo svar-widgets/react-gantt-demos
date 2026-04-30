@@ -2,7 +2,9 @@
 
 This repository contains the code of [the working examples](https://docs.svar.dev/react/gantt/samples/#/base/willow) of [SVAR Gantt for React](https://svar.dev/react/gantt/), a ready-to-use Gantt chart component that is easily integrates with React applications. 
 
-SVAR Gantt and its demos are available under the GPLv3 license.
+SVAR React Gantt and its demos are available under the MIT license. 
+
+PRO Edition with additional features is distributed under [commercial licenses](https://svar.dev/react/gantt/pricing/).
 
 # Getting Started with Create React App
 
